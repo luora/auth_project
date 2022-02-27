@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "17609907545",
+    "project_id": "moran-app-1ef4f",
+    "storage_bucket": "moran-app-1ef4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17609907545:android:1c18bbfefdb58f6196c048",
+        "android_client_info": {
+          "package_name": "com.example.auth_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17609907545-7bnh021jq7jefpt5ti09rmtd169u5amm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auth_project",
+            "certificate_hash": "22aa1975e2a9b7e014921a6cb5ed6d31b189a450"
+          }
+        },
+        {
+          "client_id": "17609907545-kh5n6d9vbsjp9lif9194f100095p5hlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdGWxSBuJ6UD9nK_1T0Mw5gusXQF9PmXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17609907545-kh5n6d9vbsjp9lif9194f100095p5hlf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
